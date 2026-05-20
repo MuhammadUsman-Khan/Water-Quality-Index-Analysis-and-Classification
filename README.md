@@ -201,8 +201,8 @@ kagglehub     # Dataset download
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MuhammadUsman-Khan/Water-Quality-Index-Analysis-and-Prediction.git
-cd Water-Quality-Index-Analysis-and-Prediction
+git clone https://github.com/MuhammadUsman-Khan/Water-Quality-Index-Analysis-and-Classification.git
+cd Water-Quality-Index-Analysis-and-Classification
 ```
 
 ### 2. Install Dependencies
