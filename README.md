@@ -6,13 +6,12 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-TPU%20v5e-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Best Model](https://img.shields.io/badge/Best%20Model-Decision%20Tree%20(Tuned)-blueviolet?style=flat-square)
-![Accuracy](https://img.shields.io/badge/Best%20Accuracy-96.37%25-blue?style=flat-square)
-![F1 Score](https://img.shields.io/badge/Best%20F1%20(minority)-0.838-orange?style=flat-square)
-![Deployment](https://img.shields.io/badge/Deployment-Flask%20%2B%20UI-teal?style=flat-square)
-
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Best Model](https://img.shields.io/badge/Best%20Model-Decision%20Tree%20(Tuned)-blueviolet?style=for-the-badge)
+![Accuracy](https://img.shields.io/badge/Best%20Accuracy-96.37%25-blue?style=for-the-badge)
+![F1 Score](https://img.shields.io/badge/Best%20F1%20(minority)-0.838-orange?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployment-Flask%20%2B%20UI-teal?style=for-the-badge)
 ---
 
 ## 📌 Overview
